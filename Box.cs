@@ -13,8 +13,6 @@ using System.Security.Cryptography;
 using System.Threading.Tasks;
 using System.Windows.Markup;
 
-namespace Box
-{
 
 
     namespace BoxLibrary
@@ -33,8 +31,7 @@ namespace Box
             public readonly double _A = 10;
             public readonly double _B = 10;
             public readonly double _C = 10;
-            public readonly double _Objetosc = 0;
-            public readonly double _Pole = 0;
+          
 
 
             public double Volume
@@ -352,4 +349,4 @@ namespace Box
 
     }
 
-}
+
